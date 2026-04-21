@@ -3,7 +3,6 @@ Este projeto apresenta uma análise detalhada da performance logística de uma o
 
 # 📊 Visão Geral do Dashboard
 <p align="center">
-  <b>Visão 1: Perfil do Cliente e Demografia</b><br>
   <img src="img/Analise de logistica.JPG" alt="Visão Cliente" width="800">
 </p>
 
